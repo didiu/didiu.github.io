@@ -1,3 +1,2 @@
- flex-add
-这是一个关于flexbox基础的骰子布局
- [demo](http://didiu.github.io/index.html)
+来到didiu的个人网站
+ (https://didiu.github.io/index.html)
